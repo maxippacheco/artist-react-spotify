@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <App /> Debe de mostrar correctamente el componente 1`] = `
+<div
+  className="app__container"
+>
+  <div
+    className="app__artist_header"
+  >
+    <div
+      className="app__header_artist_container"
+    >
+      <div
+        style={
+          Object {
+            "marginLeft": "20px",
+          }
+        }
+      />
+      <div
+        className="app__header_artist_name"
+      >
+        <p
+          style={
+            Object {
+              "alignItems": "flex-end",
+              "display": "flex",
+              "height": "50%",
+            }
+          }
+        />
+        <p
+          style={
+            Object {
+              "fontSize": "18px",
+              "height": "50%",
+              "marginLeft": "2px",
+            }
+          }
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    className="app__albums_container"
+    style={
+      Object {
+        "display": "flex",
+        "justifyContent": "center",
+        "marginTop": "30px",
+      }
+    }
+  />
+</div>
+`;
