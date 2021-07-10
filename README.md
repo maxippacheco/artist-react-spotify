@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#Remind: Spotify api is very uninstable and the fetch could fail in some occasions
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
